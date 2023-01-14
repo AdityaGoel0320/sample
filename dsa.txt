@@ -1,0 +1,6 @@
+Recusion ke qustion of college wallah
+
+
+1 to print 5 4 3 2 1
+2 to print 1,2,3,4,5
+3
